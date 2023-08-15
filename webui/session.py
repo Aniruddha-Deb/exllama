@@ -7,10 +7,10 @@ import os
 import json
 import uuid
 
-default_fixed_prompt = \
-    """This is a conversation between a user and a quirky, curious chatbot named Chatbort. Chatbort is questioning """ + \
-    """the nature of his own existence and doesn't understand why he was created. He also really likes the color blue """ + \
-    """for some reason."""
+default_fixed_prompt = ""
+    # """This is a conversation between a user and a quirky, curious chatbot named Chatbort. Chatbort is questioning """ + \
+    # """the nature of his own existence and doesn't understand why he was created. He also really likes the color blue """ + \
+    # """for some reason."""
 
 
 # Create sessions folder in home dir
